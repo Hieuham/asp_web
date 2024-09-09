@@ -8,7 +8,7 @@ namespace BTVN02.Controllers
         {
             ViewBag.Hoten = "Nguyen Trung Hieu";
             ViewBag.MSSV = "1822040136";
-            ViewBag.Nam = "Nam 3";
+            ViewBag.Nam = "2024";
             return View();
         }
     }

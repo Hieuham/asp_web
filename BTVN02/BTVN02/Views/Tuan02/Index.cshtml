@@ -2,11 +2,24 @@
 @{
     ViewData["Title"] = "Index";
 }
+<header>
+    <h2>Bài Tập</h2>
+</header>
 
-<h1>Bai tap ve nha</h1>
+<section>
+    <nav>
+        <ul>
+            <li>Họ tên: @ViewBag.HoTen</li>
+            <li>Mã SV:@ViewBag.MSSV</li>
+        
+        </ul>
+    </nav>
 
-<u>
-    <li>@ViewBag.Hoten</li>
-    <li>@ViewBag.MSSV</li>
-    <li>@ViewBag.Nam</li>
-</u>
+    <article>       
+        <img src="~/image/Anh.png" style="width:300px;" />
+    </article>
+</section>
+
+<footer>
+    <p>Copyright &copy; @ViewBag.HoTen - @ViewBag.Nam</p>
+</footer>

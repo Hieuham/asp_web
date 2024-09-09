@@ -5778,11 +5778,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\asp-web\\BTVN02\\BTVN02\\BTVN02.csproj",
+      "projectUniqueName": "D:\\GitHub\\asp_web\\BTVN02\\BTVN02\\BTVN02.csproj",
       "projectName": "BTVN02",
-      "projectPath": "D:\\Github\\asp-web\\BTVN02\\BTVN02\\BTVN02.csproj",
+      "projectPath": "D:\\GitHub\\asp_web\\BTVN02\\BTVN02\\BTVN02.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\asp-web\\BTVN02\\BTVN02\\obj\\",
+      "outputPath": "D:\\GitHub\\asp_web\\BTVN02\\BTVN02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

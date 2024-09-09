@@ -5778,11 +5778,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\asp-web\\BaiTap03\\BaiTap03\\BaiTap03.csproj",
+      "projectUniqueName": "D:\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\BaiTap03.csproj",
       "projectName": "BaiTap03",
-      "projectPath": "D:\\Github\\asp-web\\BaiTap03\\BaiTap03\\BaiTap03.csproj",
+      "projectPath": "D:\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\BaiTap03.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\asp-web\\BaiTap03\\BaiTap03\\obj\\",
+      "outputPath": "D:\\GitHub\\asp_web\\BaiTap03\\BaiTap03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Github\\asp-web\\BTVN02\\",
+  "WorkspaceRootPath": "D:\\GitHub\\asp_web\\BTVN02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78F95B34-D7E1-4B7F-8B06-01DB2735B666}|BTVN02\\BTVN02.csproj|d:\\github\\asp-web\\btvn02\\btvn02\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{78F95B34-D7E1-4B7F-8B06-01DB2735B666}|BTVN02\\BTVN02.csproj|solutionrelative:btvn02\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78F95B34-D7E1-4B7F-8B06-01DB2735B666}|BTVN02\\BTVN02.csproj|d:\\github\\asp-web\\btvn02\\btvn02\\views\\tuan02\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{78F95B34-D7E1-4B7F-8B06-01DB2735B666}|BTVN02\\BTVN02.csproj|d:\\github\\asp_web\\btvn02\\btvn02\\views\\tuan02\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{78F95B34-D7E1-4B7F-8B06-01DB2735B666}|BTVN02\\BTVN02.csproj|solutionrelative:btvn02\\views\\tuan02\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78F95B34-D7E1-4B7F-8B06-01DB2735B666}|BTVN02\\BTVN02.csproj|d:\\github\\asp-web\\btvn02\\btvn02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78F95B34-D7E1-4B7F-8B06-01DB2735B666}|BTVN02\\BTVN02.csproj|solutionrelative:btvn02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78F95B34-D7E1-4B7F-8B06-01DB2735B666}|BTVN02\\BTVN02.csproj|d:\\github\\asp_web\\btvn02\\btvn02\\controllers\\tuan02controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F95B34-D7E1-4B7F-8B06-01DB2735B666}|BTVN02\\BTVN02.csproj|solutionrelative:btvn02\\controllers\\tuan02controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78F95B34-D7E1-4B7F-8B06-01DB2735B666}|BTVN02\\BTVN02.csproj|d:\\github\\asp-web\\btvn02\\btvn02\\controllers\\tuan02controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78F95B34-D7E1-4B7F-8B06-01DB2735B666}|BTVN02\\BTVN02.csproj|solutionrelative:btvn02\\controllers\\tuan02controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78F95B34-D7E1-4B7F-8B06-01DB2735B666}|BTVN02\\BTVN02.csproj|d:\\github\\asp_web\\btvn02\\btvn02\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{78F95B34-D7E1-4B7F-8B06-01DB2735B666}|BTVN02\\BTVN02.csproj|solutionrelative:btvn02\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F95B34-D7E1-4B7F-8B06-01DB2735B666}|BTVN02\\BTVN02.csproj|d:\\github\\asp_web\\btvn02\\btvn02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78F95B34-D7E1-4B7F-8B06-01DB2735B666}|BTVN02\\BTVN02.csproj|solutionrelative:btvn02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1485,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,52 +50,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\Github\\asp-web\\BTVN02\\BTVN02\\.gitignore",
-              "RelativeDocumentMoniker": "BTVN02\\.gitignore",
-              "ToolTip": "D:\\Github\\asp-web\\BTVN02\\BTVN02\\.gitignore",
-              "RelativeToolTip": "BTVN02\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-08T01:20:11.138Z",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\BTVN02\\BTVN02\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BTVN02\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\GitHub\\asp_web\\BTVN02\\BTVN02\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BTVN02\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-08T14:12:20.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github\\asp-web\\BTVN02\\BTVN02\\Program.cs",
-              "RelativeDocumentMoniker": "BTVN02\\Program.cs",
-              "ToolTip": "D:\\Github\\asp-web\\BTVN02\\BTVN02\\Program.cs",
-              "RelativeToolTip": "BTVN02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T01:18:35.518Z"
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\BTVN02\\BTVN02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BTVN02\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GitHub\\asp_web\\BTVN02\\BTVN02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BTVN02\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T14:11:32.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\BTVN02\\BTVN02\\Views\\Tuan02\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTVN02\\Views\\Tuan02\\Index.cshtml",
+              "ToolTip": "D:\\GitHub\\asp_web\\BTVN02\\BTVN02\\Views\\Tuan02\\Index.cshtml*",
+              "RelativeToolTip": "BTVN02\\Views\\Tuan02\\Index.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T01:18:31.906Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Github\\asp-web\\BTVN02\\BTVN02\\Views\\Tuan02\\Index.cshtml",
-              "RelativeDocumentMoniker": "BTVN02\\Views\\Tuan02\\Index.cshtml",
-              "ToolTip": "D:\\Github\\asp-web\\BTVN02\\BTVN02\\Views\\Tuan02\\Index.cshtml",
-              "RelativeToolTip": "BTVN02\\Views\\Tuan02\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T01:18:31.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Tuan02Controller.cs",
-              "DocumentMoniker": "D:\\Github\\asp-web\\BTVN02\\BTVN02\\Controllers\\Tuan02Controller.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\BTVN02\\BTVN02\\Controllers\\Tuan02Controller.cs",
               "RelativeDocumentMoniker": "BTVN02\\Controllers\\Tuan02Controller.cs",
-              "ToolTip": "D:\\Github\\asp-web\\BTVN02\\BTVN02\\Controllers\\Tuan02Controller.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\BTVN02\\BTVN02\\Controllers\\Tuan02Controller.cs",
               "RelativeToolTip": "BTVN02\\Controllers\\Tuan02Controller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T01:17:50.139Z"
+              "WhenOpened": "2024-09-08T01:17:50.139Z",
+              "EditorCaption": ""
             }
           ]
         },
