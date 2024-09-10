@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BaiTap06.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BaiTap06.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\bag.svg",
+      "PackagePath": "staticwebassets\\img\\bag.svg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\bowl-2.png",
+      "PackagePath": "staticwebassets\\img\\bowl-2.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\bowl-3.png",
+      "PackagePath": "staticwebassets\\img\\bowl-3.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\cart.svg",
+      "PackagePath": "staticwebassets\\img\\cart.svg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\couch.png",
+      "PackagePath": "staticwebassets\\img\\couch.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\cross.svg",
+      "PackagePath": "staticwebassets\\img\\cross.svg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\dots-green.svg",
+      "PackagePath": "staticwebassets\\img\\dots-green.svg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\dots-light.svg",
+      "PackagePath": "staticwebassets\\img\\dots-light.svg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\dots-yellow.svg",
+      "PackagePath": "staticwebassets\\img\\dots-yellow.svg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\envelope-outline.svg",
+      "PackagePath": "staticwebassets\\img\\envelope-outline.svg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\img-grid-1.jpg",
+      "PackagePath": "staticwebassets\\img\\img-grid-1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\img-grid-2.jpg",
+      "PackagePath": "staticwebassets\\img\\img-grid-2.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\img-grid-3.jpg",
+      "PackagePath": "staticwebassets\\img\\img-grid-3.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\person-1.jpg",
+      "PackagePath": "staticwebassets\\img\\person-1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\person-1.png",
+      "PackagePath": "staticwebassets\\img\\person-1.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\person_1.jpg",
+      "PackagePath": "staticwebassets\\img\\person_1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\person_2.jpg",
+      "PackagePath": "staticwebassets\\img\\person_2.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\person_3.jpg",
+      "PackagePath": "staticwebassets\\img\\person_3.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\person_4.jpg",
+      "PackagePath": "staticwebassets\\img\\person_4.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\post-1.jpg",
+      "PackagePath": "staticwebassets\\img\\post-1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\post-2.jpg",
+      "PackagePath": "staticwebassets\\img\\post-2.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\post-3.jpg",
+      "PackagePath": "staticwebassets\\img\\post-3.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\product-1.png",
+      "PackagePath": "staticwebassets\\img\\product-1.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\product-2.png",
+      "PackagePath": "staticwebassets\\img\\product-2.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\product-3.png",
+      "PackagePath": "staticwebassets\\img\\product-3.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\return.svg",
+      "PackagePath": "staticwebassets\\img\\return.svg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\sofa.png",
+      "PackagePath": "staticwebassets\\img\\sofa.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\support.svg",
+      "PackagePath": "staticwebassets\\img\\support.svg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\truck.svg",
+      "PackagePath": "staticwebassets\\img\\truck.svg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\user.svg",
+      "PackagePath": "staticwebassets\\img\\user.svg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\img\\why-choose-us-img.jpg",
+      "PackagePath": "staticwebassets\\img\\why-choose-us-img.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BaiTap06.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BaiTap06.props",
+      "PackagePath": "build\\BaiTap06.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BaiTap06.props",
+      "PackagePath": "buildMultiTargeting\\BaiTap06.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BaiTap06.props",
+      "PackagePath": "buildTransitive\\BaiTap06.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

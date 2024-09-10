@@ -1,0 +1,553 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BaiTapKiemTra01.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BaiTapKiemTra01.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\css\\default-skin.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\about-img.png",
+      "PackagePath": "staticwebassets\\image\\about-img.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\anhchup\\Anh1.png",
+      "PackagePath": "staticwebassets\\image\\anhchup\\Anh1.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\anhchup\\Anh2.png",
+      "PackagePath": "staticwebassets\\image\\anhchup\\Anh2.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\banner-bg.png",
+      "PackagePath": "staticwebassets\\image\\banner-bg.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\call-icon.png",
+      "PackagePath": "staticwebassets\\image\\call-icon.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\fb-icon.png",
+      "PackagePath": "staticwebassets\\image\\fb-icon.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\footer-logo.png",
+      "PackagePath": "staticwebassets\\image\\footer-logo.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\icon1.png",
+      "PackagePath": "staticwebassets\\image\\icon1.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\icon2.png",
+      "PackagePath": "staticwebassets\\image\\icon2.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\icon3.png",
+      "PackagePath": "staticwebassets\\image\\icon3.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\img-1.png",
+      "PackagePath": "staticwebassets\\image\\img-1.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\img-10.png",
+      "PackagePath": "staticwebassets\\image\\img-10.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\img-2.png",
+      "PackagePath": "staticwebassets\\image\\img-2.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\img-3.png",
+      "PackagePath": "staticwebassets\\image\\img-3.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\img-4.png",
+      "PackagePath": "staticwebassets\\image\\img-4.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\img-5.png",
+      "PackagePath": "staticwebassets\\image\\img-5.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\img-6.png",
+      "PackagePath": "staticwebassets\\image\\img-6.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\img-7.png",
+      "PackagePath": "staticwebassets\\image\\img-7.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\img-8.png",
+      "PackagePath": "staticwebassets\\image\\img-8.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\img-9.png",
+      "PackagePath": "staticwebassets\\image\\img-9.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\instagram-icon.png",
+      "PackagePath": "staticwebassets\\image\\instagram-icon.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\logo.png",
+      "PackagePath": "staticwebassets\\image\\logo.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\mail-icon.png",
+      "PackagePath": "staticwebassets\\image\\mail-icon.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\map-icon.png",
+      "PackagePath": "staticwebassets\\image\\map-icon.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\quick-icon.png",
+      "PackagePath": "staticwebassets\\image\\quick-icon.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\search-icon.png",
+      "PackagePath": "staticwebassets\\image\\search-icon.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\services-bg.png",
+      "PackagePath": "staticwebassets\\image\\services-bg.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\social-icon.png",
+      "PackagePath": "staticwebassets\\image\\social-icon.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\image\\twitter-icon.png",
+      "PackagePath": "staticwebassets\\image\\twitter-icon.png"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\js\\modernizer.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\plugin.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\js\\slider-setting.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\GitHub\\asp_web\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BaiTapKiemTra01.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BaiTapKiemTra01.props",
+      "PackagePath": "build\\BaiTapKiemTra01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BaiTapKiemTra01.props",
+      "PackagePath": "buildMultiTargeting\\BaiTapKiemTra01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BaiTapKiemTra01.props",
+      "PackagePath": "buildTransitive\\BaiTapKiemTra01.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
