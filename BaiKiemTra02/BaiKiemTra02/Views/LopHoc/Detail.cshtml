@@ -1,0 +1,10 @@
+﻿@model LopHoc
+
+<div>
+	ID: <b>@Model.Id</b> <br />
+	Tên lớp học: <b>@Model.TenLopHoc</b> <br />
+	Ngày nhập trường: <b>@String.Format("{00:dd/MM/yyyy}", Model.NamNhapHoc)</b> <br />
+	Ngày ra trường: <b>@String.Format("{00:dd/MM/yyyy}", Model.NamRaTruong)</b> <br />
+	Số lượng sinh viên: <b>@Model.SoLuongSinhVien</b> <br />
+</div>
+
