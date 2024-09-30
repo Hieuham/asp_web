@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\asp_web\\Project\\Project\\Project.csproj": {}
+    "D:\\GitHub\\asp_web\\project\\Project\\Project.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\asp_web\\Project\\Project\\Project.csproj": {
+    "D:\\GitHub\\asp_web\\project\\Project\\Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\asp_web\\Project\\Project\\Project.csproj",
+        "projectUniqueName": "D:\\GitHub\\asp_web\\project\\Project\\Project.csproj",
         "projectName": "Project",
-        "projectPath": "D:\\GitHub\\asp_web\\Project\\Project\\Project.csproj",
+        "projectPath": "D:\\GitHub\\asp_web\\project\\Project\\Project.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\asp_web\\Project\\Project\\obj\\",
+        "outputPath": "D:\\GitHub\\asp_web\\project\\Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
