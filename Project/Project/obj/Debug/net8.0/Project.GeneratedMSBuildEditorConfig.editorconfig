@@ -78,14 +78,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GitHub/asp_web/project/Project/Areas/Customer/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/GitHub/asp_web/project/Project/Areas/Customer/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/GitHub/asp_web/project/Project/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
