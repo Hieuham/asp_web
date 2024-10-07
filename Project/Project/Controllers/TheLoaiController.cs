@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Authorization;
 namespace Project.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = "Amin")]
+    [Authorize(Roles = "Admin")]
     public class TheLoaiController : Controller
     {
         private readonly ApplicationDbContext _db;
