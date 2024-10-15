@@ -27,12 +27,15 @@
         </tbody>
     </table>
     -->
+
     <div class="row">
         @foreach (var item in Model)
         {
             <div class="col-3">
-                <div class="card" style="width: 18rem;">
-                <img src="@item.ImageUrl" class="card-img-top" alt="@item.Name">
+                <div class="card" style="width: auto;">
+                    <a asp-action="Details" asp-route-id="@item.Id">
+                        <img src="@item.ImageUrl" alt="Product image" class="product-image" width="80%">
+                    </a>
                     <div class="card-body">
                         <h5 class="card-title">@item.Name</h5>
                         <h6 class="card-title">@item.price</h6>
@@ -48,5 +51,5 @@
                     </div>
                 </div>
             </div>
-        }
+        }   
     </div>

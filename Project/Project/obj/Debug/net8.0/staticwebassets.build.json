@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iynD1VURyU5a3CyZ7qwp1OGoXp5Ga5E1H1y2E/a9+7o=",
+  "Hash": "xANFFGF0zmB2Dgv/g01drU4gYstFkqb3YWydby+vbQA=",
   "Source": "Project",
   "BasePath": "_content/Project",
   "Mode": "Default",
@@ -1233,12 +1233,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\GitHub\\asp_web\\project\\Project\\wwwroot\\js\\site.js",
+      "Identity": "D:\\GitHub\\asp_web\\project\\Project\\wwwroot\\img\\anh.png",
       "SourceId": "Project",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHub\\asp_web\\project\\Project\\wwwroot\\",
       "BasePath": "_content/Project",
-      "RelativePath": "js/site.js",
+      "RelativePath": "img/anh.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1249,7 +1249,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot\\img\\anh.png"
     },
     {
       "Identity": "D:\\GitHub\\asp_web\\project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

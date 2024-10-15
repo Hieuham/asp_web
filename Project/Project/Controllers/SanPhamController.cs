@@ -10,7 +10,7 @@ using Project.Models;
 namespace Project.Controllers
 {
     [Area("Admin")]
-    [Authorize (Roles = "Admin")]
+    [Authorize(Roles = "Admin")]
     public class SanPhamController : Controller
     {
         private readonly ApplicationDbContext _db;
