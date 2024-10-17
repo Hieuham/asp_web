@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\asp_web\\ProjectA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E53CEAE3-DE0A-4CAF-BB5C-EE39F909AB6D}|ProjectA\\ProjectA.csproj|d:\\github\\asp_web\\projecta\\projecta\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53CEAE3-DE0A-4CAF-BB5C-EE39F909AB6D}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53CEAE3-DE0A-4CAF-BB5C-EE39F909AB6D}|ProjectA\\ProjectA.csproj|d:\\github\\asp_web\\projecta\\projecta\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53CEAE3-DE0A-4CAF-BB5C-EE39F909AB6D}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53CEAE3-DE0A-4CAF-BB5C-EE39F909AB6D}|ProjectA\\ProjectA.csproj|d:\\github\\asp_web\\projecta\\projecta\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53CEAE3-DE0A-4CAF-BB5C-EE39F909AB6D}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53CEAE3-DE0A-4CAF-BB5C-EE39F909AB6D}|ProjectA\\ProjectA.csproj|d:\\github\\asp_web\\projecta\\projecta\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53CEAE3-DE0A-4CAF-BB5C-EE39F909AB6D}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53CEAE3-DE0A-4CAF-BB5C-EE39F909AB6D}|ProjectA\\ProjectA.csproj|d:\\github\\asp_web\\projecta\\projecta\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53CEAE3-DE0A-4CAF-BB5C-EE39F909AB6D}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53CEAE3-DE0A-4CAF-BB5C-EE39F909AB6D}|ProjectA\\ProjectA.csproj|d:\\github\\asp_web\\projecta\\projecta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E53CEAE3-DE0A-4CAF-BB5C-EE39F909AB6D}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TheLoai.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\ProjectA\\ProjectA\\Models\\TheLoai.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Models\\TheLoai.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\ProjectA\\ProjectA\\Models\\TheLoai.cs",
+              "RelativeToolTip": "ProjectA\\Models\\TheLoai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:23:31.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\ProjectA\\ProjectA\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\ProjectA\\ProjectA\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "ProjectA\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:22:54.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\ProjectA\\ProjectA\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Models\\SanPham.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\ProjectA\\ProjectA\\Models\\SanPham.cs",
+              "RelativeToolTip": "ProjectA\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:23:29.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\ProjectA\\ProjectA\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\ProjectA\\ProjectA\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "ProjectA\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:13:32.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\ProjectA\\ProjectA\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\ProjectA\\ProjectA\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ProjectA\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:13:37.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\ProjectA\\ProjectA\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectA\\appsettings.json",
+              "ToolTip": "D:\\GitHub\\asp_web\\ProjectA\\ProjectA\\appsettings.json",
+              "RelativeToolTip": "ProjectA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T09:12:31.877Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,72 +3,112 @@
   "WorkspaceRootPath": "D:\\GitHub\\asp_web\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\viewcomponents\\theloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\viewcomponents\\theloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\customer\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\areas\\customer\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\views\\shared\\components\\theloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\views\\shared\\components\\theloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\admin\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\admin\\views\\sanpham\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\sanpham\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\admin\\views\\theloai\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\theloai\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\admin\\views\\theloai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\theloai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\admin\\views\\theloai\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\theloai\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\admin\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\data\\migrations\\20241015125430_gh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\data\\migrations\\20241015125430_gh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\admin\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\viewcomponents\\theloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\viewcomponents\\theloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\data\\migrations\\20241001073513_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\data\\migrations\\20241001073513_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\data\\migrations\\20240923090532_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\data\\migrations\\20240923090532_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|solutionrelative:project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2252C51-312B-45D7-976F-C75279CBDE52}|Project\\Project.csproj|d:\\github\\asp_web\\project\\project\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -85,12 +125,12 @@
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -117,60 +157,176 @@
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Project\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Project\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T06:32:05.443Z",
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\GioHangController.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "Project\\Controllers\\GioHangController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:03:57.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
-              "RelativeDocumentMoniker": "Project\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
-              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
-              "RelativeToolTip": "Project\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T06:31:24.77Z",
+              "WhenOpened": "2024-10-15T06:37:26.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TheLoaiViewComponent.cs",
-              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\ViewComponents\\TheLoaiViewComponent.cs",
-              "RelativeDocumentMoniker": "Project\\ViewComponents\\TheLoaiViewComponent.cs",
-              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\ViewComponents\\TheLoaiViewComponent.cs",
-              "RelativeToolTip": "Project\\ViewComponents\\TheLoaiViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:21:51.075Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\GioHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Customer\\Views\\GioHang\\Index.cshtml",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\GioHang\\Index.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Customer\\Views\\GioHang\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T07:00:10.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Project\\Areas\\Customer\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Project\\Areas\\Customer\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T01:10:21.304Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:17:16.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T02:54:50.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241015125430_gh.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Data\\Migrations\\20241015125430_gh.cs",
+              "RelativeDocumentMoniker": "Project\\Data\\Migrations\\20241015125430_gh.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Data\\Migrations\\20241015125430_gh.cs",
+              "RelativeToolTip": "Project\\Data\\Migrations\\20241015125430_gh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:54:30.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Giohang.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Models\\Giohang.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\Giohang.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Models\\Giohang.cs",
+              "RelativeToolTip": "Project\\Models\\Giohang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:49:15.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TheLoai.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Models\\TheLoai.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\TheLoai.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Models\\TheLoai.cs",
+              "RelativeToolTip": "Project\\Models\\TheLoai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:58:16.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "Project\\Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:34:19.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "Project\\Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvxwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:33:40.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Project\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Project\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:52:21.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Project\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Project\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:10:39.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\SanPham.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Models\\SanPham.cs",
+              "RelativeToolTip": "Project\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:24:59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Project\\Areas\\Admin\\_ViewImports.cshtml",
@@ -178,12 +334,155 @@
               "RelativeToolTip": "Project\\Areas\\Admin\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T01:10:15.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T01:10:15.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\_ViewStart.cshtml",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\_ViewStart.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T09:37:07.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T09:37:04.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Project\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T09:33:22.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T08:58:36.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T01:10:21.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Project\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Project\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:52:18.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Project\\appsettings.json",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\appsettings.json",
+              "RelativeToolTip": "Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T09:12:40.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Project\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:23:46.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TheLoaiViewComponent.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\ViewComponents\\TheLoaiViewComponent.cs",
+              "RelativeDocumentMoniker": "Project\\ViewComponents\\TheLoaiViewComponent.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\ViewComponents\\TheLoaiViewComponent.cs",
+              "RelativeToolTip": "Project\\ViewComponents\\TheLoaiViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:21:51.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Project\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:58:13.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241001073513_adduser.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Data\\Migrations\\20241001073513_adduser.cs",
+              "RelativeDocumentMoniker": "Project\\Data\\Migrations\\20241001073513_adduser.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Data\\Migrations\\20241001073513_adduser.cs",
+              "RelativeToolTip": "Project\\Data\\Migrations\\20241001073513_adduser.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:59:04.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240923090532_init.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Data\\Migrations\\20240923090532_init.cs",
+              "RelativeDocumentMoniker": "Project\\Data\\Migrations\\20240923090532_init.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Data\\Migrations\\20240923090532_init.cs",
+              "RelativeToolTip": "Project\\Data\\Migrations\\20240923090532_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:52:17.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Project\\Views\\_ViewImports.cshtml",
@@ -191,155 +490,11 @@
               "RelativeToolTip": "Project\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T08:02:09.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T08:02:09.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
-              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
-              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
-              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T00:37:38.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "Project\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "RelativeToolTip": "Project\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T08:05:20.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
-              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
-              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
-              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T00:33:54.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Upsert.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\Views\\SanPham\\Upsert.cshtml",
-              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\SanPham\\Upsert.cshtml",
-              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\Views\\SanPham\\Upsert.cshtml",
-              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\SanPham\\Upsert.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T00:33:51.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\Views\\TheLoai\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\TheLoai\\Detail.cshtml",
-              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\Views\\TheLoai\\Detail.cshtml",
-              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\TheLoai\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T00:34:05.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\Views\\TheLoai\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\TheLoai\\Edit.cshtml",
-              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\Views\\TheLoai\\Edit.cshtml",
-              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\TheLoai\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T00:37:49.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\Views\\TheLoai\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\TheLoai\\Delete.cshtml",
-              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\Views\\TheLoai\\Delete.cshtml",
-              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\TheLoai\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T00:34:02.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\Views\\TheLoai\\Create.cshtml",
-              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\TheLoai\\Create.cshtml",
-              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Admin\\Views\\TheLoai\\Create.cshtml",
-              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\TheLoai\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T00:34:01.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SanPhamController.cs",
-              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Controllers\\SanPhamController.cs",
-              "RelativeDocumentMoniker": "Project\\Controllers\\SanPhamController.cs",
-              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Controllers\\SanPhamController.cs",
-              "RelativeToolTip": "Project\\Controllers\\SanPhamController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T00:33:40.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Project\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Project\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T08:05:19.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Project\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\GitHub\\asp_web\\Project\\Project\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Project\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T23:43:49.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Project\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -347,12 +502,11 @@
               "RelativeToolTip": "Project\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T23:38:38.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T23:38:38.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "Project\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -360,12 +514,11 @@
               "RelativeToolTip": "Project\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T23:36:16.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T23:36:16.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "D:\\GitHub\\asp_web\\Project\\Project\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Project\\Views\\Shared\\_Layout.cshtml.css",
@@ -378,12 +531,12 @@
           ]
         },
         {
-          "DockedWidth": 234,
+          "DockedHeight": 80,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

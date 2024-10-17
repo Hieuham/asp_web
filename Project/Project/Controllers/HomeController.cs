@@ -1,14 +1,15 @@
-using Microsoft.AspNetCore.Authorization;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Project.Data;
 using Project.Models;
 using System.Diagnostics;
+using System.Security.Claims;
 
 namespace Project.Areas.Customer.Controllers
 {
     [Area("Customer")]
-    
+
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -21,7 +22,7 @@ namespace Project.Areas.Customer.Controllers
 
         public IActionResult Index()
         {
-            IEnumerable<SanPham>sanpham = _db.SanPham.Include("TheLoai").ToList();
+            IEnumerable<SanPham> sanpham = _db.SanPham.Include("TheLoai").ToList();
             return View(sanpham);
         }
 
@@ -36,15 +37,37 @@ namespace Project.Areas.Customer.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
         [HttpGet]
-        public IActionResult Details(int id) { 
-            SanPham sanpham = new SanPham();
-            sanpham =_db.SanPham.Include(sp=>sp.TheLoai).FirstOrDefault(sp=>sp.Id == id);
-            return View(sanpham);
+        public IActionResult Details(int sanphamId)
+        {
+            Giohang giohang = new Giohang()
+            {
+                SanPhamId = sanphamId,
+                SanPham = _db.SanPham.Include(sp => sp.TheLoai)
+                .FirstOrDefault(sp => sp.Id == sanphamId),
+                Quantity = 1
+            };
+            return View(giohang);
         }
+
+        [HttpPost]
+        [Authorize]
+        public IActionResult Details(Giohang giohang)
+        {
+            //lấy thông tin tài khoản
+            var identity = (ClaimsIdentity)User.Identity;
+            var claim = identity.FindFirst(ClaimTypes.NameIdentifier);
+            giohang.ApplicationUserId = claim.Value;
+            //Thêm sản phẩm vào giỏ hàng
+            _db.Giohang.Add(giohang);
+            _db.SaveChanges();
+            return RedirectToAction("Index");
+        } 
+        
         [HttpGet]
         public IActionResult FilterByTheLoai(int id)
         { 
-            IEnumerable<SanPham> sanpham = _db.SanPham.Include("TheLoai").Where(sp => sp.TheLoai.Id==id).ToList();
+            IEnumerable<SanPham> sanpham = _db.SanPham.Include("TheLoai")
+                .Where(sp => sp.TheLoai.Id==id).ToList();
             return View("Index", sanpham);
         }
     }
