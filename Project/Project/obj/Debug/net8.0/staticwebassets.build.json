@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xANFFGF0zmB2Dgv/g01drU4gYstFkqb3YWydby+vbQA=",
+  "Hash": "rnfzdragQYxcJtvhZQ7s/bgI5QAuKCAUTuGp0wlB76M=",
   "Source": "Project",
   "BasePath": "_content/Project",
   "Mode": "Default",
@@ -1233,12 +1233,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\GitHub\\asp_web\\project\\Project\\wwwroot\\img\\anh.png",
+      "Identity": "D:\\GitHub\\asp_web\\project\\Project\\wwwroot\\img\\ROG.jpg",
       "SourceId": "Project",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHub\\asp_web\\project\\Project\\wwwroot\\",
       "BasePath": "_content/Project",
-      "RelativePath": "img/anh.png",
+      "RelativePath": "img/ROG.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1249,7 +1249,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\anh.png"
+      "OriginalItemSpec": "wwwroot\\img\\ROG.jpg"
     },
     {
       "Identity": "D:\\GitHub\\asp_web\\project\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Project.Data;
+using Project.Data.Migrations;
 using Project.Models;
 using System.Diagnostics;
 using System.Security.Claims;
@@ -53,16 +54,29 @@ namespace Project.Areas.Customer.Controllers
         [Authorize]
         public IActionResult Details(Giohang giohang)
         {
-            //lấy thông tin tài khoản
+            // Lay thong tin tai khoan
             var identity = (ClaimsIdentity)User.Identity;
             var claim = identity.FindFirst(ClaimTypes.NameIdentifier);
             giohang.ApplicationUserId = claim.Value;
-            //Thêm sản phẩm vào giỏ hàng
-            _db.Giohang.Add(giohang);
+
+
+            // Kiểm tra sản phẩm đã có trong cơ sở dữ liệu hay chưa?
+            var giohangdb = _db.Giohang.FirstOrDefault(gh => gh.SanPhamId == giohang.SanPhamId
+       && gh.ApplicationUserId == giohang.ApplicationUserId);
+
+            if (giohangdb == null)
+            {
+                _db.Giohang.Add(giohang); // Them san pham vao gio hang
+            }
+            else
+            {
+                giohangdb.Quantity += giohang.Quantity;
+            }
+            // Them san pham vao gio hang
             _db.SaveChanges();
             return RedirectToAction("Index");
-        } 
-        
+        }
+
         [HttpGet]
         public IActionResult FilterByTheLoai(int id)
         { 
